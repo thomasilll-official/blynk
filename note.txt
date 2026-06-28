@@ -1,0 +1,12 @@
+home
+
+use ui only
+
+home-v2
+
+#define BLYNK_TEMPLATE_ID "TMPL3Rt8xa32H"
+#define BLYNK_TEMPLATE_NAME "test"
+#define BLYNK_AUTH_TOKEN "m75I_c0CplhRFnoQ398bwPbeob7AJD_V"
+
+
+use blink app
